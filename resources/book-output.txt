@@ -1,0 +1,5 @@
+Books{id=1, name= toi thay hoa vang tren co xanh, author= Nguyen Nhat Anh, language= vietnamese, price= 19000vnd, date= 10/10/2020}
+Books{id=2, name= mat biec, author= Nguyen Nhat Anh, language= vietnamese, price= 17000vnd, date= 24/10/2018}
+Books{id=3, name= doraemon, author= Fujiko Fujio, language= vietnamese, price= 6000vnd, date= 10/11/1999}
+Books{id=4, name= dac nhan tam, author=  Dale Carnegie, language=vietnamese, price= 11000vnd, date= 12/7/2015}
+Books{id=5, name= kheo an noi se co duoc thien ha, author= trac nha, language= vietnamese, price= 14000vnd, date= 11/12/2004}

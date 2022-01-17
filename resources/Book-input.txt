@@ -1,0 +1,5 @@
+01, toi thay hoa vang tren co xanh, Nguyen Nhat Anh, vietnamese, 19000vnd, 10/10/2020
+02, mat biec, Nguyen Nhat Anh, vietnamese, 17000vnd, 24/10/2018
+03, doraemon, Fujiko Fujio, vietnamese, 6000vnd, 10/11/1999
+04, dac nhan tam,  Dale Carnegie,vietnamese, 11000vnd, 12/7/2015
+05, kheo an noi se co duoc thien ha, trac nha, vietnamese, 14000vnd, 11/12/2004
